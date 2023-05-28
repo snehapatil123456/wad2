@@ -1,0 +1,4 @@
+name:dabu
+class : se
+subject : spos
+description : this is file0
